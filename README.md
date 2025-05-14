@@ -14,10 +14,15 @@ This project is a content-based recommendation engine built using Python. It hel
 
 Netflix-Movie-Recommendation-System/
 ├── app.py # Main application (Streamlit/Flask)
+
 ├── Netflix_Recommendation_Engine.ipynb # Notebook with recommendation logic
+
 ├── netflix_titles.csv # Raw dataset from Netflix
+
 ├── movies_df.csv # Preprocessed metadata
+
 ├── README.md # Project documentation
+
 └── LICENSE # MIT License
 
 
